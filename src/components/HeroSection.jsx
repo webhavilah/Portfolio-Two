@@ -7,7 +7,7 @@ const HeroSection = () => {
                 <div className="h-screen bg-slate-900">
                     <header className="h-1/10 bg-slate-950 flex">
                         <nav className="flex justify-between items-center m-auto w-9/10">
-                            <h2 className="text-3xl font-semibold text-[#e3ffcc] max-[400px]:text-2xl">
+                            <h2 className="text-3xl font-semibold text-[#e3ffcc] max-[400px]:text-2xl cursor-pointer">
                                 Portfolio
                             </h2>
                             <button className="border-2 border-[#e3ffcc] py-2 px-3.5 text-[#e3ffcc] rounded hover:bg-[#e3ffcc] hover:text-slate-900 font-semibold transition duration-500 max-[400px]:px-2.5 max-[400px]:py-1.5 max-[400px]:text-sm">
